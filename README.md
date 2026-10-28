@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FarmReady (Bolt, Cart, Shed) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://farmready.io/
+FarmReady provides a suite of farm management applications—including Shed for inventory, Bolt for equipment, Cart for grain contracts, and Crew for safety—to help farms digitize operations, track assets, manage grain logistics, and improve workplace safety. The platform offers a free beta for farms, with tools accessible via web and mobile interfaces, aiming to streamline farm workflows and data visibility.
+
+**Areas:** Company · Agriculture · Farm Management · Inventory · Equipment · Safety
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.farmready.io/)
+- [Documentation](https://www.farmready.io/help)
+- [Sign up](https://www.farmready.io/account/register)
+- [Support](https://www.farmready.io/help)
+- [Blog](https://www.farmready.io/blog)
+- [Terms of service](https://www.farmready.io/terms)
+- [Privacy policy](https://www.farmready.io/privacy)
+- [GitHub](https://github.com/farmready)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/farmready/](https://apis.io/providers/farmready/).
